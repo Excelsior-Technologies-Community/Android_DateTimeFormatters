@@ -49,7 +49,7 @@ dependencyResolutionManagement {
 ### Add Dependency
 ```
 dependencies {
-	        implementation 'com.github.Excelsior-Technologies-Community:Android_FormFields:1.0.0'
+	        implementation 'com.github.Excelsior-Technologies-Community:Android_DateTimeFormatters:1.0.0'
 	}
 ```
 
